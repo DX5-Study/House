@@ -16,5 +16,5 @@
 
 ## 결론
 - pycaret를 활용해 결측치를 처리할 땐 매우 중요하게 매워야 할 결측치는 비지도 학습 혹은 simple imputer로 직접 채워주고, 
-  애매하고 결측치 양이 적은 경우에만 imputation_tyep = 'IterativeImputer'로 시간을 절약합시다!
+  애매하고 결측치 양이 적은 경우에만 imputation_type = 'IterativeImputer'로 시간을 절약합시다!
   
